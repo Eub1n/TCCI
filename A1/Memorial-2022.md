@@ -15,3 +15,4 @@ Em relação ao mercado de trabalho, Weber obteve bastante experiências durante
 Weber não participou de nenhum projeto de pesquisa até o momento, já que nenhum dos que foram oferecidos chamou sua atenção. Em relação as ACGs Weber concluiu um curso de profissionalização de desenvolvimento em C#, um curso para utilização da plataforma AWS, um curso de DBT (Data Build Tool) para transformação de dados e um curso de Snowflake.
 
 Como perspectiva para após a conclusão do curso, Weber pretende ser efetivado na empresa em que está atuando no momento, Weber tem como objetivo se tornar um funcionário de carreira na empresa, após ter seu objetivo concluído nesta empresa, Weber pretende tentar uma vaga em solo internacional, focado em se mudar e trabalhar em alguma empresa no Canadá ou Estados Unidos da América, Weber possui curso de Inglês avançado concluído em 2016.
+
